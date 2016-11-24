@@ -25,6 +25,7 @@
 - [Docker](#docker)
 - [Vagrant](#vagrant)
 - [VPN](#vpn)
+- [Nginx](#nginx)
 
 ## 搜索
 
@@ -281,5 +282,9 @@
 - [GreenVPN](https://www.getgreenjsq.org) - 鄙人一直在用的VPN
 - [SS-Link](http://www.ss-link.com/) - 专业提供Shadowsocks账号
 - [Shadowsocks](https://shadowsocks.com/)
+
+## Nginx
+
+- [Nginx 配置简述](http://blog.jobbole.com/108039/)
 
 **[⬆ top](#目录)**
