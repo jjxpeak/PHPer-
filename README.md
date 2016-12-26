@@ -51,7 +51,7 @@
 - [廖雪峰](http://www.liaoxuefeng.com/) - 技术作家，著有《Spring 2.0核心技术与最佳实践》
 - [韩天峰](http://rango.swoole.com/) - swoole 框架的作者
 - [黑夜路人](http://blog.csdn.net/heiyeshuwu) - 无需多说, 资深人士
-
+- [信海龙](http://www.bo56.com/)
 ## 算法
 
 - [算法速成系列](http://www.cnblogs.com/huangxincheng/category/340146.html)
