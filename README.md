@@ -32,7 +32,7 @@
 - [百度](https://www.baidu.com/) - 最大的中文搜索引擎
 - [谷歌](https://www.google.com/) - 全球最大的搜索引擎
 - [bing](https://www.bing.com/) - 微软推出的一款搜索引擎
-- [快搜](http://so.chongbuluo.com/) - 整合了常用的搜索, 还有谷歌镜像
+- [虫部落](http://www.chongbuluo.com/m/) - 整合了常用的搜索, 还有谷歌镜像
 
 ## 工具
 
