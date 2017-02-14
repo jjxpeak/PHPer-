@@ -203,7 +203,8 @@
 
 ## go
 
--[Go web](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) - Go web简单编程
+- [Go web](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) - Go web简单编程
+
 ## Android
 
 - [Android](https://www.android.com/) - Android 官方网站
